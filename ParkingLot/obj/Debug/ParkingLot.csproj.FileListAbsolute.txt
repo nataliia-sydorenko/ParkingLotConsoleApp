@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+c:\users\asus\documents\visual studio 2017\Projects\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
+E:\C#\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+E:\C#\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+E:\C#\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+E:\C#\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojAssemblyReference.cache
+E:\C#\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+E:\C#\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+E:\C#\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
+C:\Users\asus\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\asus\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\asus\Documents\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\asus\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojAssemblyReference.cache
+C:\Users\asus\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\asus\Documents\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
